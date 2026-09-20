@@ -1,4 +1,16 @@
 SHARE Folder Permissions Report
+
+Powershell 运行：
+.\13.PS1
+
+
+Powershell 运行：
+
+   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass 
+.\13.ps1
+
+
+
 頂層共享資料夾權限報告 — 需求與功能規格書
 文件版本：v1.0　　整理日期：2026-09-19
 1. 專案目的
